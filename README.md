@@ -1,3 +1,7 @@
+## Disclaimer
+
+This project is intended for educational and learning purposes only. The code provided here is for demonstration and personal use. It is not intended for production or commercial use. Use this project at your own risk and always review and test code thoroughly before integrating it into any critical applications.
+
 # QR Code Generator
 
 A simple, fully responsive QR Code Generator built with HTML, CSS, JavaScript, and Bootstrap. This project allows users to input their information (Name, Email, Snapchat ID, and Instagram) and dynamically generates a QR code based on the provided data. The generated QR code is displayed in a modal popup, and the page refreshes automatically when the modal is closed.
@@ -11,7 +15,7 @@ A simple, fully responsive QR Code Generator built with HTML, CSS, JavaScript, a
   A clean interface with a compact 300px wide container and minimal margins/padding.
 
 - **Dynamic QR Code Generation:**  
-  Utilizes the [QR Code API](https://api.qrserver.com/v1/create-qr-code/) to generate QR codes from user input.
+  Utilizes the [QR Code API](https://abu-huzaifa25.github.io/QR-Code-Generator/) to generate QR codes from user input.
 
 - **Modal Popup:**  
   Displays the generated QR code in a Bootstrap modal for a better user experience.
